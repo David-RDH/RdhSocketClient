@@ -1,5 +1,5 @@
 {
-    "name": "rdh/rdh-socket-client",
+    "name": "rdh-archipoint/rdh-socket-client",
     "description": "A socket client for RdhSocket",
     "type": "library",
     "autoload": {
