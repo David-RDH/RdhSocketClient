@@ -1,7 +1,6 @@
 {
     "name": "rdh-archipoint/rdh-socket-client",
     "description": "A socket client for RdhSocket",
-    "version": "1.0.0",
     "type": "library",
     "autoload": {
         "psr-4": {
