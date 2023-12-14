@@ -1,0 +1,19 @@
+{
+    "name": "rdh/rdh-socket-client",
+    "description": "A socket client for RdhSocket",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "RdhArchipoint\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RDH",
+            "email": "tsoa.le.rdh@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
