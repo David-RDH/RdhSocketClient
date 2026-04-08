@@ -16,7 +16,7 @@ class RdhSocketClient {
     private $options;
     private $hosts = "http://socket.archipoint.mg:10028";
     private $client;
-    private $next = false;
+    // private $next = false;
 
     public function __construct($options)
     {
