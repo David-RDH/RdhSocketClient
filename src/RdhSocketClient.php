@@ -14,7 +14,7 @@ class RdhSocketClient {
      * token varchar
      */
     private $options;
-    private $hosts = "https://rdh-websocket.onrender.com";
+    private $hosts = "http://socket.archipoint.mg:10028";
     private $client;
     private $next = false;
 
